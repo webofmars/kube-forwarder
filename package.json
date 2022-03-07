@@ -90,7 +90,7 @@
     "dotenv-safe": "^6.1.0",
     "electron-ga": "^1.0.6",
     "electron-store": "^3.3.0",
-    "electron-updater": "^4.0.6",
+    "electron-updater": "^4.6.5",
     "killable": "^1.0.1",
     "lodash": "^4.17.15",
     "shell-path": "^2.1.0",
