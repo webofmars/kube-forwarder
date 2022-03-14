@@ -82,7 +82,7 @@
     }
   },
   "dependencies": {
-    "@kubernetes/client-node": "0.10.2",
+    "@kubernetes/client-node": "0.16.3",
     "@sentry/electron": "^0.17.3",
     "@sentry/integrations": "^5.3.1",
     "clone-deep": "^4.0.1",
