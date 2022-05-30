@@ -114,7 +114,7 @@
     "babel-loader": "^8.0.0",
     "babel-plugin-istanbul": "^5.1.4",
     "babili-webpack-plugin": "^0.1.2",
-    "cfonts": "^2.1.2",
+    "cfonts": "^3.1.0",
     "chai": "^4.1.2",
     "chalk": "^5.0.0",
     "copy-webpack-plugin": "^5.1.2",
