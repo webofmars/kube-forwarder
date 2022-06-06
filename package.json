@@ -84,7 +84,7 @@
   "dependencies": {
     "@kubernetes/client-node": "0.10.2",
     "@sentry/electron": "^3.0.4",
-    "@sentry/integrations": "^6.19.2",
+    "@sentry/integrations": "^7.0.0",
     "clone-deep": "^4.0.1",
     "deepmerge": "^4.0.0",
     "dotenv-safe": "^8.2.0",
