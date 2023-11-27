@@ -105,7 +105,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.23.3",
-    "@babel/plugin-transform-runtime": "^7.23.3",
+    "@babel/plugin-transform-runtime": "^7.23.4",
     "@babel/preset-env": "^7.23.3",
     "@babel/runtime-corejs2": "^7.23.2",
     "@sentry/webpack-plugin": "^1.21.0",
