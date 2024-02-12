@@ -87,7 +87,7 @@
     "@sentry/integrations": "^7.0.0",
     "clone-deep": "^4.0.1",
     "deepmerge": "^4.0.0",
-    "dotenv-safe": "^8.2.0",
+    "dotenv-safe": "^9.0.0",
     "electron-ga": "^1.0.6",
     "electron-store": "^8.0.1",
     "electron-updater": "^6.0.0",
