@@ -101,7 +101,7 @@
     "vuelidate": "^0.7.7",
     "vuex": "^3.6.2",
     "vuex-electron": "^1.0.3",
-    "ws": "^6.2.2"
+    "ws": "^6.2.3"
   },
   "devDependencies": {
     "@babel/core": "7.24.7",
