@@ -112,7 +112,7 @@
     "ajv": "^8.11.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.0.0",
-    "babel-plugin-istanbul": "^6.1.1",
+    "babel-plugin-istanbul": "^7.0.0",
     "babili-webpack-plugin": "^0.1.2",
     "cfonts": "^3.1.0",
     "chai": "^5.0.0",
