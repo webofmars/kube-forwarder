@@ -150,7 +150,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "^0.0.32",
     "karma-webpack": "^5.0.0",
-    "mini-css-extract-plugin": "1.6.2",
+    "mini-css-extract-plugin": "2.9.2",
     "mocha": "^11.0.0",
     "multispinner": "^0.2.1",
     "node-loader": "^1.0.3",
