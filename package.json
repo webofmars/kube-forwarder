@@ -125,7 +125,7 @@
     "del": "^8.0.0",
     "devtron": "^1.4.0",
     "electron": "34.0.0",
-    "electron-builder": "25.0.0",
+    "electron-builder": "26.0.8",
     "electron-debug": "^4.0.0",
     "electron-devtools-installer": "^4.0.0",
     "eslint": "^9.20.0",
