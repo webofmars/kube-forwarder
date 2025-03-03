@@ -111,7 +111,7 @@
     "@sentry/webpack-plugin": "^3.1.2",
     "ajv": "^8.11.0",
     "babel-eslint": "^10.1.0",
-    "babel-loader": "^9.2.1",
+    "babel-loader": "^10.0.0",
     "babel-plugin-istanbul": "^7.0.0",
     "babili-webpack-plugin": "^0.1.2",
     "cfonts": "^3.1.0",
