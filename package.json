@@ -109,7 +109,7 @@
     "@babel/preset-env": "^7.29.2",
     "@babel/runtime-corejs2": "^7.29.2",
     "@sentry/webpack-plugin": "^1.21.0",
-    "ajv": "^6.14.0",
+    "ajv": "^6.15.0",
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.4.1",
     "babel-plugin-istanbul": "^5.2.0",
